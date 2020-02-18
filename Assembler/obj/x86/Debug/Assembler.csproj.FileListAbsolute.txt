@@ -1,0 +1,16 @@
+D:\Teaching\ECS\Excersises\Ex2\Assembler\bin\Debug\Assembler.exe
+D:\Teaching\ECS\Excersises\Ex2\Assembler\bin\Debug\Assembler.pdb
+D:\Teaching\ECS\Excersises\Ex2\Assembler\obj\x86\Debug\Assembler.exe
+D:\Teaching\ECS\Excersises\Ex2\Assembler\obj\x86\Debug\Assembler.pdb
+D:\Teaching\ECS\Excersises\Ex3\Code\Assembler\obj\x86\Debug\Assembler.exe
+D:\Teaching\ECS\Excersises\Ex3\Code\Assembler\obj\x86\Debug\Assembler.pdb
+D:\Teaching\ECS\2016\Ex2.3\Code\Assembler\obj\x86\Debug\Assembler.exe
+D:\Teaching\ECS\2016\Ex2.3\Code\Assembler\obj\x86\Debug\Assembler.pdb
+D:\Teaching\ECS\2017\Ex2.3\Code\Assembler\obj\x86\Debug\Assembler.exe
+D:\Teaching\ECS\2017\Ex2.3\Code\Assembler\obj\x86\Debug\Assembler.pdb
+C:\Users\USER\Desktop\הנדסת מערכות מידע\שנה ב\סמסטר א'\מבנה מערכות מחשוב\עבודות\Ex2.3\Code\Assembler\obj\x86\Debug\Assembler.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\הנדסת מערכות מידע\שנה ב\סמסטר א'\מבנה מערכות מחשוב\עבודות\Ex2.3\Code\Assembler\obj\x86\Debug\Assembler.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\הנדסת מערכות מידע\שנה ב\סמסטר א'\מבנה מערכות מחשוב\עבודות\Ex2.3\Code\Assembler\obj\x86\Debug\Assembler.exe
+C:\Users\USER\Desktop\הנדסת מערכות מידע\שנה ב\סמסטר א'\מבנה מערכות מחשוב\עבודות\Ex2.3\Code\Assembler\obj\x86\Debug\Assembler.pdb
+C:\Users\USER\Desktop\הנדסת מערכות מידע\שנה ב\סמסטר א'\מבנה מערכות מחשוב\עבודות\Ex2.3\Code\Assembler\bin\Debug\Assembler.exe
+C:\Users\USER\Desktop\הנדסת מערכות מידע\שנה ב\סמסטר א'\מבנה מערכות מחשוב\עבודות\Ex2.3\Code\Assembler\bin\Debug\Assembler.pdb

@@ -1,0 +1,17 @@
+x=y+5
+x=D+5
+x=M+5
+x=A+5
+z=5+M
+z=8+A
+m=5
+t=m
+sum=0
+i=7
+(LOOP)
+D=i
+D;JEQ:END
+sum++
+i--
+0;JMP:LOOP
+(END)

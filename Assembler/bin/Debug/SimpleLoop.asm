@@ -1,0 +1,11 @@
+@7
+D=A
+(LOOP)
+@END
+D;JEQ
+@0
+M=M+1
+D=D-1
+@LOOP
+0;JMP
+(END)
